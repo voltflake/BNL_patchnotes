@@ -1,2 +1,4 @@
 - Fixed explosives affecting the BB and damaging the BB
 - Fixed recall timer
+- Remove damage interrupting recall
+- Decrease the range WSI on cubes show up to 10

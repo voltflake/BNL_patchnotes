@@ -15,6 +15,8 @@
 ### Toe, Ball, Heel, Knee 
 - The perk felt underwhelming and a buff was asked for.
 - Changed fall damage reduction from 60% to 70%
+### Killer Shield
+- Shield is now lowered by 10% after each second. This means it starts at 50%, after a second it changes to 40% and so on, till the buff runs out
 ## Removed Perks
 - Breadwinner
 - Dig that Ammo
