@@ -10,3 +10,7 @@
 
 ## Active Ability
 - Reduce Charges from 2 to 1
+
+## Perks
+### Fly Away Bad Guy
+- Reduce knockback from 50% to 20% - Increase down side from 10% to 15%
