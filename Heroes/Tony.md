@@ -9,3 +9,5 @@
 - Caulk gun range with right click increased from 6 to 10
 - Caulk clip size set to 100 with a ammo pool of 200
 - Reload time of 1s
+- Slow duration is now 2 seconds.
+- Particle effect is added to visualize said slow effect
