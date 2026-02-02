@@ -2,3 +2,4 @@
 - Fixed recall timer
 - Remove damage interrupting recall
 - Decrease the range WSI on cubes show up to 10
+- Increased build time in ranked from 4 minutes to 5 minutes
