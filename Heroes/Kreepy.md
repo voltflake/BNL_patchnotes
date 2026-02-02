@@ -4,10 +4,6 @@
 - Slip duration increased from 0.25 to 0.3
 - Direct hit with alt fire banana now roots for 0.8s
 - Increase damage from alt fire direct hit from 20 to 25
-- Added linear falloff for knockback
-
-## Kreepy's Gloves
-- Added linear falloff for knockback
 
 ## Banana Peel
 - Take 20 splash damage

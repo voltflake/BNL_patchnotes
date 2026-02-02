@@ -2,7 +2,7 @@
 - Reduce Clipsize from 6 to 4
 - Reduce total from 36 to 32
 - Increase reload time of saucer launcher from 2s to 3s
-- Added linear falloff for knockback
+- Saucer ammo regen rate lowered by 30%
 
 ## Grounpound Passive
 - Increase minimum height from 1.2 to 1.6
@@ -16,3 +16,6 @@
 ## Perks
 ### Fly Away Bad Guy
 - Reduce knockback from 50% to 20% - Increase down side from 10% to 15%
+### Go go go
+- Increase F charge to 2
+- Default health reduced by 10%

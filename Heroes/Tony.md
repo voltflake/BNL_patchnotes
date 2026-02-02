@@ -6,6 +6,7 @@
 - Turrets do an extra 3 damage within range
 - Devices within range while active have a slow heal
 - Reduced cooldown on his active ability from 60s to 50s
+- Active Ability now grants a 10% shield to him and his allies
 ## Caulk gun
 - Caulk gun range with right click increased from 6 to 10
 - Caulk clip size set to 100 with a ammo pool of 200

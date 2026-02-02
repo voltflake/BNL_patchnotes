@@ -16,6 +16,10 @@
 ### Spalshing damaged reworked to:
 - Positive: Gas cloud now heals teammates when inside
 - Negative: No longer deals damage
+- Splashing heals perk grenades now spawn gas on impact instead of time based
+- Heal now stacks with health station
 ### Beautiful Bubbles reworked to:
 - Positive: No longer deals team/self damage
-- Negative: Reduced clip ammo by 2
+- Splash range increased by 50%
+- Ammo Clip increased by 4 more shots
+- Negative: Chem Grenade ammo pool lowered by 3 grenades

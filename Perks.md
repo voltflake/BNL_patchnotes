@@ -20,6 +20,7 @@
 - Negative increased from 10% to 15%
 ### Health scavenger
 - Increased the positive from 20% to 35%
+- Downside decreased from 10% to 6.5%
 - Moved to defensive perks
 ### Fast Restock
 - Moved to defensive perks
@@ -29,7 +30,12 @@
 - Positive increased from 5s to 7s
 ### Walk it off
 - Positive increased from 20% to 25%
+### Bags of Bullets
+- Increase Bags of Bullets from 20% bonus ammo to 25% bonus ammo
 # 🆕 New Perks
+### Mags of Bullets (New Perk)
+- Positive: Increase clip size by 20%
+- Negative: increased reload time by 20%. At 20% anything 5 and above would gain extra ammo
 ### Last Stand Momentum
 - Positive: Gain 25% movement speed while under 40%HP
 - Negative: -20% Healing from all sources
