@@ -2,6 +2,7 @@
 - Reduce Clipsize from 6 to 4
 - Reduce total from 36 to 32
 - Increase reload time of saucer launcher from 2s to 3s
+- Added linear falloff for knockback
 
 ## Grounpound Passive
 - Increase minimum height from 1.2 to 1.6

@@ -6,3 +6,5 @@
 - Squad size for casual increased from 3 to 5
 - Squad size for ranked reduced from 5 to 1
 - Added a buff icon to Killer Build
+- Added BB uber at 35mins
+- Added a WSI to friendly radars when in range
