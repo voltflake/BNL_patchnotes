@@ -7,6 +7,7 @@
 - Increase minimum height from 1.2 to 1.6
 - Remove knockback on hit
 - Reduce damage radius from 2.5 to 2
+- Fast fall minimum height is now in line with the ground pound height. Both are now at 1.6
 
 ## Active Ability
 - Reduce Charges from 2 to 1

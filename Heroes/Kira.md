@@ -5,3 +5,4 @@
 ## Kitty Launcher
 - Reduce reload time from 3s to 2.5s
 - Increase ammo regen from 0.25 to 0.3
+- Alt fire attack time is lowered from 0.65 to 0.6 (~10% attack speed buff)
