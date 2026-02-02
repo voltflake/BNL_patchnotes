@@ -1,7 +1,7 @@
 ## Saucer Launcher
 - Reduce Clipsize from 6 to 4
 - Reduce total from 36 to 32
-- Change Reload to Partial Reload. Each Reload taking 0.75s (Full reload was 2s)
+- Increase reload time of saucer launcher from 2s to 3s
 
 ## Grounpound Passive
 - Increase minimum height from 1.2 to 1.6
