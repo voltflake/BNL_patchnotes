@@ -12,3 +12,13 @@
 - Reload time of 1s
 - Slow duration is now 2 seconds.
 - Particle effect is added to visualize said slow effect
+## Rivet gun
+- Increase damage from 2 to 3
+- Decrease amount of bullets from 14 to 11
+- Increase crit damage from 1.25 to 1.35
+- Increase max damage range from 5 to 8
+- Increase min damage range from 15 to 20
+## Perks
+### Super rivet gun reworked to:
+- Positive: Clip size increased to 8
+- Negative: Reload increased by 30%

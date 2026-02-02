@@ -8,3 +8,6 @@
 - Added a buff icon to Killer Build
 - Added BB uber at 35mins
 - Added a WSI to friendly radars when in range
+- Deal an extra 33% world damage during **build phase only** this will effect digtools and weapons 
+- Added a 1.5 crit damage to digtools
+- Added a 5% speed buff while holding digtools

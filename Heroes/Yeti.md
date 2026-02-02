@@ -14,3 +14,6 @@
 ## Perks
 ### Chill Dude
 - Increase Ice/Snow Block range from 2 to 2.5 for the chilling out passive
+### Facewash reworked to:
+- Positive: Gain a 15% shield near snow and ice
+- Negative: Base health reduced by 6.5%
