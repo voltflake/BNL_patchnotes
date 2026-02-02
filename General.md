@@ -3,3 +3,5 @@
 - Remove damage interrupting recall
 - Decrease the range WSI on cubes show up to 10
 - Increased build time in ranked from 4 minutes to 5 minutes
+- Squad size for casual increased from 3 to 5
+- Squad size for ranked reduced from 5 to 1
